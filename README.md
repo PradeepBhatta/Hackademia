@@ -1,0 +1,2 @@
+# Hackademia
+Projects regarding Hackademia
